@@ -1,0 +1,5 @@
+name: NumberBomb
+version: 0.1.0
+api-version: 0.33.0
+authors: ["SNWCreations"]
+main: snw.numberbomb.Main

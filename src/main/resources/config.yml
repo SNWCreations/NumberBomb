@@ -1,0 +1,8 @@
+# Number Bomb Game in KOOK
+# by SNWCreations
+
+# The minimum number of the number range.
+min: 0
+
+# The maximum number of the number range.
+max: 100
